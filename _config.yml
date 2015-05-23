@@ -8,6 +8,8 @@ author: "lyuan"
 atom-baseurl: "http://fieldinrain.github.io/blog"
 disqus: "gopherwood"
 
+baseurl: "/blog"
+
 navigations:
   - title: Archive
     class: fa fa-list-ul
