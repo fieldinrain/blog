@@ -5,7 +5,7 @@ name: "ride on time"
 markdown: rdiscount
 
 author: "lyuan"
-atom-baseurl: "http://lyuan.com"
+atom-baseurl: "http://fieldinrain.github.io/blog"
 disqus: "gopherwood"
 
 navigations:
